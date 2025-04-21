@@ -1,0 +1,54 @@
+As a RPA Developer, you’ll be responsible for designing, implementing, and maintaining the automation workflows that connect our internal systems. Your work will directly impact our efficiency, data accuracy, and team productivity across all business units.
+
+
+Key Responsibilities
+
+Workflow Development
+
+Build and maintain automation workflows using tools like n8n, Make.com, and Zapier
+Integrate platforms such as Google Sheets, HubSpot, Slack, and other SaaS tools
+CRM Transition & Integration
+
+Support the migration from Monday.com to HubSpot by setting up key automation flows
+Develop robust integrations using APIs and webhooks to automate CRM functions
+Ensure seamless data syncing between platforms
+Data Management & Reporting
+
+Automate data collection, processing, and reporting workflows
+Create PDF generation and email dispatch systems for reporting and communications
+Set up automated invoicing and billing solutions
+System Optimization
+
+Monitor automation health, debug issues, and improve reliability
+Continuously evaluate and improve system performance and workflow efficiency
+Collaboration & Documentation
+
+Work closely with cross-functional teams to understand automation needs
+Document all workflows and provide training to non-technical stakeholders
+
+
+What We’re Looking For
+
+Must-Have Skills
+
+2-3 years in automation, workflow engineering, or systems integration
+Strong hands-on experience with n8n, Make.com, and/or Zapier
+Familiarity with APIs, webhooks, and common data structures (JSON, CSV)
+Experience with Monday.com, HubSpot, Google Sheets, and document tools
+High attention to detail and strong problem-solving skills
+Self-starter who thrives in a remote-first, fast-paced environment
+Nice-to-Haves
+
+Basic knowledge of JavaScript or Python
+Experience in a cross-functional or startup environment
+Exposure to automation involving CRMs, LMSs, or other education platforms
+
+
+Perks and Benefits
+
+Competitive salary: ₹12 LPA
+Fully remote work
+High-growth role with opportunities to expand into platform ownership
+Work with a low-bureaucracy, high-trust culture
+Collaborate with smart, supportive teammates across India and Australia
+Join one of Australia’s most exciting EdTech companies and make a real impact
