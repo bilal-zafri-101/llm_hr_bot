@@ -85,5 +85,5 @@ streamlit run app.py
 ### 📬 Contact
 
 **Built with ❤️ by [Your Name]**  
-📧 Email: your.email@example.com  
+📧 Email: bilal.zafri.work.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/bilalzafri/)
